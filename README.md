@@ -1,4 +1,4 @@
-# second-diploma
+# my-diploma
 
 ## Project setup
 ```
